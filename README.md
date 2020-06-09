@@ -1,2 +1,2 @@
 # Brito
-Like Sci-fi Movies, Future, Languages and programming 
+Like Sci-fi Movies, Future, Languages, tecnology and programming 
